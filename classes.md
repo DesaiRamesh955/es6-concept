@@ -1,6 +1,6 @@
 # ES6 concept
 ---
-## JavaScript Classes
+## JavaScript Classes 
 
 Classes are one of the features introduced in the ES6 version of JavaScript.
 
