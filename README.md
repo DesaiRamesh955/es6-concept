@@ -8,4 +8,5 @@
 - [Javascript modules](https://github.com/DesaiRamesh955/es6-concept/blob/main/modules.md)
 - [Spread operator](https://github.com/DesaiRamesh955/es6-concept/blob/main/spread_operator.md)
 - [Ternary operator](https://github.com/DesaiRamesh955/es6-concept/blob/main/ternary_operator.md)
-- [Variable and scops (const,let,var)](https://github.com/DesaiRamesh955/es6-concept/blob/main/variable.md)
+- [JavaScript Objects](https://github.com/DesaiRamesh955/es6-concept/blob/main/javascript_object.md)
+- [JavaScript Classes](https://github.com/DesaiRamesh955/es6-concept/blob/main/classes.md)
